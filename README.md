@@ -1,2 +1,2 @@
 # conversor-para-extenso
-# Esse conversor, feito em python, recebe qualquer numero entre 1 e 999 e retorna ele por extenso
+# This converter, made in python, receives any number between 1 and 999 and returns it in full
